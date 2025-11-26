@@ -21,6 +21,10 @@ A full-stack web platform where customers can find and book nearby service worke
 - Receive WhatsApp notifications for new bookings
 
  <img width="1904" height="984" alt="Screenshot from 2025-11-26 11-02-32" src="https://github.com/user-attachments/assets/03e91a94-c6de-49ee-b2b9-7f6c25d70858" />
+ <img width="1904" height="984" alt="Screenshot from 2025-11-26 11-02-39" src="https://github.com/user-attachments/assets/987bccba-bc65-45e6-96f8-9a45d3770a25" />
+ <img width="1904" height="984" alt="Screenshot from 2025-11-26 11-02-47" src="https://github.com/user-attachments/assets/dfaf33a4-0413-4e86-9a81-db4549d04f36" />
+
+
 
 ### Admin Features
 - View all workers
